@@ -1,0 +1,33 @@
+header {
+	font-size: 3em;
+	font-family: sans-serif;
+	text-align: center;
+	border: 3px solid green;
+	border-radius: 3px;
+	text-align: center;
+}
+h1 {
+	font-size: 30px;
+	border: 3px solid green;
+	border-radius: 3px;
+	text-align: center;
+
+}
+img {
+	width: 50%;
+	border-radius: 50px;
+}
+.finished {
+	display: inline-block;
+	width: 49%;
+
+}
+ul>li:hover {
+	color: green;
+}
+.bought {
+	text-decoration: line-through;
+}
+ol>li.current {
+	background-color: beige;
+}
